@@ -1,0 +1,35 @@
+= Cat Language
+
+This is a little just for fun program that I made that encodes English and Russian text into so-called Cat Language. 
+
+Example:
+
+[source]
+----
+meooow meow, mew meew, mow meow, purr mow, mew meoooow, purrr, mew meew, mow meow, purr, purrr, mew meoooow, purr mow, mow, meow, mew meoooow, mew shhhh, purr mow, meoow, mew meew, mew meoow, purrr meooow, mew meoooow, purr mow, purrr, meow, mow mew, meew, purr mow, mew meoooow, purrr, meew, shhhh, mew purrr, purr mow, mew shhhh, mew meooow, mew meew, mew meow, meew, mew meoow, purr mow, mew mew, meow, mew meoow, purr, mow meow, meow, purr, meew, purr meooow, purr mow, meooow meow, mew meew, mow meow, purrr meooow, mew purrr, meew, purr mow, mow mow, mew purrr, mew meew, mew meoow, purr, purr meoow, purr mow
+----
+
+says:
+
+[source]
+----
+You thought cats don't have their spoken language? You're wrong. 
+----
+
+== Usage
+1. Install ActiveTcl 8.6 or any other kind of Tcl interpreter that is either version 8.5 or 8.6.
+2. Run ``tclsh cattranslate.tcl -e <your text here>`` to translate your text into Cat Language.
+3. Or run ``tclsh cattranslate.tcl -d <your Cat Language encoded text>`` to translate your Cat Language text back to English (or Russian).
+
+== Disclaimer
+
+This program (obviously) was made for fun. There is no warranty for it.
+
+== TODO
+
+- Support French and/or Italian languages
+- Library docs
+
+== License
+
+As always, MIT License.
