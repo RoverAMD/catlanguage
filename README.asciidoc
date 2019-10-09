@@ -23,7 +23,7 @@ You thought cats don't have their spoken language? You're wrong.
 
 == Disclaimer
 
-This program (obviously) was made for fun. There is no warranty for it.
+This program (obviously) was made for fun and for entertainment purposes only. There is no warranty.
 
 == TODO
 
