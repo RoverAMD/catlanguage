@@ -31,7 +31,7 @@ label .becomesLabel -text "after hardcore translation and calculations becomes:"
 text .resultEntry -borderwidth 2
 button .toCats -text "Translate to Cat Language" -command translateThis
 .toCats configure -state normal
-button .toEnglish -text "Translate back to English/Russian"
+button .toEnglish -text "Translate back to English/Russian" -command toEnglishReal
 button .copyTranslation -text "Copy translation to clipboard" -command copyEverything
 pack .thisTextLabel .thisTextEntry .becomesLabel .resultEntry .toCats .toEnglish .copyTranslation
 wm title . "Cat Language Translator by Tim K/RoverAMD" 
