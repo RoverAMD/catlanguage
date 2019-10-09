@@ -16,6 +16,9 @@ says:
 You thought cats don't have their spoken language? You're wrong. 
 ----
 
+== What is Cat Language anyway?
+Cat Language is a fictional language that only consists of the words ``meow``, ``purr``, ``shh`` and ``mew`` (all of them are cat sounds). It is not real, it is a joke language and it was made just to entertain the author of this program.
+
 == GUI usage
 1. Install ActiveTcl 8.6 or any other kind of Tcl interpreter that is either version 8.5 or 8.6. **DO NOT USE APPLE'S BUNDLED TCLSH. IT IS BROKEN!!!**
 2. Run ``tclsh gui.tcl`` to run the GUI.
